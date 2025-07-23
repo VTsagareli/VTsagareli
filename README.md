@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on a web app that matches apartment exchanges using GPT text analysis [tauschmatch](https://github.com/VTsagareli/tauschmatch)
 - 🔭 I recently built a CRUD app, an appointment system for a clinic which you can check out [here](https://ng-clinic-application.web.app/login)
 
-- 🌱 I’m currently learning: **Typescript, Java, Spring, NextJS, React**
-
 - 💬 Practical experience in: **Angular, Ionic and Firebase**
+
+- 🌱 I’m currently learning: **Typescript, Java, Spring, NextJS, React**
 
 - 📫 You can reach me at: **tsagareli.v@gmail.com**
 
