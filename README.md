@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vakho</h1>
-<h3 align="center">Software Developer with a background in both Software Development and Business Administration.</h3>
+<h3 align="center">Software Developer with a background in Business Administration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtsagareli&label=Profile%20views&color=0e75b6&style=flat" alt="vtsagareli" /> </p>
 
