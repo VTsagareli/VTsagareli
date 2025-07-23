@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vakho</h1>
 <h3 align="center">Software Developer with a background in Business Administration.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vtsagareli&label=Profile%20views&color=0e75b6&style=flat" alt="vtsagareli" /> </p>
-
 - 🔭 I’m currently working on a web app that matches apartment exchanges using GPT text analysis [tauschmatch](https://github.com/VTsagareli/tauschmatch)
 - 🔭 I recently built a CRUD app, an appointment system for a clinic which you can check out [here](https://ng-clinic-application.web.app/login)
 
