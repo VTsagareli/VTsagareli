@@ -4,12 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtsagareli&label=Profile%20views&color=0e75b6&style=flat" alt="vtsagareli" /> </p>
 
 - 🔭 I’m currently working on a web app that matches apartment exchanges using GPT text analysis [tauschmatch](https://github.com/VTsagareli/tauschmatch)
+- 🔭 I recently built a CRUD app, an appointment system for a clinic which you can check out [here]([https://github.com/VTsagareli/tauschmatch](https://ng-clinic-application.web.app/login))
 
-- 🌱 I’m currently learning **Typescript, Java, Spring, NextJS, React**
+- 🌱 I’m currently learning: **Typescript, Java, Spring, NextJS, React**
 
-- 💬 Ask me about **Angular, Ionic and Firebase**
+- 💬 Practical experience in: **Angular, Ionic and Firebase**
 
-- 📫 How to reach me **tsagareli.v@gmail.com**
+- 📫 You can reach me at: **tsagareli.v@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
