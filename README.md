@@ -6,13 +6,13 @@
 
 - 💬 Practical experience in: **Angular, Ionic and Firebase**
 
-- 🌱 Currently expanding my skillset through the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst) – building on my existing Python and SQL knowledge  
-  while deepening my experience with:  
+- 🌱 I'm currently building on my existing Python and SQL knowledge by following the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst), where I'm deepening my skills in:  
   &nbsp;&nbsp;- Data analysis and visualization (Pandas, Matplotlib, Seaborn)  
   &nbsp;&nbsp;- Databases and queries (Advanced SQL, PostgreSQL)  
   &nbsp;&nbsp;- Business intelligence workflows  
   &nbsp;&nbsp;- Excel for analytics and dashboards  
   &nbsp;&nbsp;- Data-driven decision making
+
 
 
 - 📫 You can reach me at: **tsagareli.v@gmail.com**
