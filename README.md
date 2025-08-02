@@ -6,7 +6,17 @@
 
 - 💬 Practical experience in: **Angular, Ionic and Firebase**
 
-- 🌱 I’m currently learning: **Typescript, Java, Spring, NextJS, React**
+- 🌱 Expanding my skillset through the BI Data Analyst Career Path on Codecademy – building on my existing Python and SQL knowledge while deepening my experience with:
+
+* Data analysis and visualization (Pandas, Matplotlib, Seaborn)
+
+* Databases and queries (Advanced SQL, PostgreSQL)
+
+* Business intelligence workflows
+
+* Excel for analytics and dashboards
+
+* Data-driven decision making
 
 - 📫 You can reach me at: **tsagareli.v@gmail.com**
 
