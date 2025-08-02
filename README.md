@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on a web app that matches apartment exchanges using GPT text analysis [tauschmatch](https://github.com/VTsagareli/tauschmatch)
 - 🔭 I recently built a CRUD app, an appointment system for a clinic which you can check out [here](https://ng-clinic-application.web.app/login)
 
-- 💬 Practical experience in: **Angular, Ionic and Firebase**
-
 - 🌱 I'm currently building on my existing Python and SQL knowledge by following the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst), where I'm deepening my skills in:  
   &nbsp;&nbsp;- Data analysis & visualization (Pandas, Matplotlib, Tableau, etc.)  
   &nbsp;&nbsp;- SQL querying across different relational databases (MySQL, SQLite, PostgreSQL, etc.)  
@@ -13,7 +11,7 @@
   &nbsp;&nbsp;- Excel for analytics and dashboards  
   &nbsp;&nbsp;- Data-driven decision making
 
-
+- 💬 Practical experience in: **Angular, Ionic and Firebase**
 
 - 📫 You can reach me at: **tsagareli.v@gmail.com**
 
