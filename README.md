@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vakho</h1>
 <h3 align="center">Software Developer with a background in Business Administration.</h3>
 
+- 🌱 I'm currently building on my existing Python and SQL knowledge by following the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst)
+- - 🔭 I recently completed a data analysis project on US medical insurance costs, where I explored patient demographics, compared insurance charges between smokers and non-smokers, and visualized the results using Python libraries like Pandas, NumPy, and Matplotlib. You can check out the project [here](https://github.com/VTsagareli/medical-insurance-analysis).
+
 - 🔭 I’m currently working on a web app that matches apartment exchanges using GPT text analysis [tauschmatch](https://github.com/VTsagareli/tauschmatch)
 - 🔭 I recently built a CRUD app, an appointment system for a clinic which you can check out [here](https://ng-clinic-application.web.app/login)
-
-- 🌱 I'm currently building on my existing Python and SQL knowledge by following the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst), where I'm deepening my skills in:  
-  &nbsp;&nbsp;- Data analysis & visualization (Pandas, Matplotlib, Tableau, etc.)  
-  &nbsp;&nbsp;- SQL querying across different relational databases (MySQL, SQLite, PostgreSQL, etc.)  
-  &nbsp;&nbsp;- Business intelligence workflows  
-  &nbsp;&nbsp;- Excel for analytics and dashboards  
-  &nbsp;&nbsp;- Data-driven decision making
 
 - 💬 Practical experience in: **Angular, Ionic and Firebase**
 
