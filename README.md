@@ -2,12 +2,15 @@
 <h3 align="center">Software Developer with a background in Business Administration.</h3>
 
 - 🌱 I'm currently building on my existing Python and SQL knowledge by following the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst)
+  
 - 🔭 I'm working on a data analysis project on US medical insurance costs. It showcases my ability to analyze data and create visualizations using Python, Pandas, NumPy, and Matplotlib. Check out the project [here](https://github.com/VTsagareli/medical-insurance-analysis).
 [here](https://github.com/VTsagareli/medical-insurance-analysis).
 
 - 🔭 I’m working on a web app that matches apartment exchanges using GPT text analysis [tauschmatch](https://github.com/VTsagareli/tauschmatch)
+  
 - 🔭 As part of my Bachelor Thesis I developed an AI Sound Anomaly Detection system, classifying fuel pump sounds as normal or faulty. Check out the project [here](https://github.com/VTsagareli/BT)
 - 🔭 I built a CRUD app, an appointment system for a clinic which you can check out [here](https://ng-clinic-application.web.app/login)
+  
 
 - 💬 Practical experience in: **Angular, Ionic and Firebase**
 
