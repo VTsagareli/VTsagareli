@@ -4,7 +4,6 @@
 - 🌱 I'm currently building on my existing Python and SQL knowledge by following the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst)
   
 - 🔭 I'm working on a data analysis project on US medical insurance costs. It showcases my ability to analyze data and create visualizations using Python, Pandas, NumPy, and Matplotlib. Check out the project [here](https://github.com/VTsagareli/medical-insurance-analysis).
-[here](https://github.com/VTsagareli/medical-insurance-analysis).
 
 - 🔭 I’m working on a web app that matches apartment exchanges using GPT text analysis [tauschmatch](https://github.com/VTsagareli/tauschmatch)
   
