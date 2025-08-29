@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer with a background in Business Administration.</h3>
 
 - 🌱 I'm currently building on my existing Python and SQL knowledge by following the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst)
-- - 🔭 I'm working on a data analysis project on US medical insurance costs. I already explored patient demographics, compared insurance charges between smokers and non-smokers, and visualized the results using Python libraries like Pandas, NumPy, and Matplotlib. You can check out the project [here](https://github.com/VTsagareli/medical-insurance-analysis).
+- 🔭 I'm working on a data analysis project on US medical insurance costs. I already explored patient demographics, compared insurance charges between smokers and non-smokers, and visualized the results using Python libraries like Pandas, NumPy, and Matplotlib. You can check out the project [here](https://github.com/VTsagareli/medical-insurance-analysis).
 
 - 🔭 I’m working on a web app that matches apartment exchanges using GPT text analysis [tauschmatch](https://github.com/VTsagareli/tauschmatch)
 - 🔭 As part of my Bachelor Thesis I developed an AI Sound Anomaly Detection system, classifying fuel pump sounds as normal or faulty. Check out the project [here](https://github.com/VTsagareli/BT)
