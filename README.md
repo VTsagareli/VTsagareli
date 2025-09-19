@@ -2,11 +2,11 @@
 <h3 align="center">Aspiring Data Analyst with a background in Software Development and Business Administration.</h3>
 
 - 🌱 I'm currently building on my existing Python and SQL knowledge by following the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst)
-  
 
-- 🔭 As part of my Bachelor Thesis I developed an AI Sound Anomaly Detection system, classifying fuel pump sounds as normal or faulty. Check out the project [here](https://github.com/VTsagareli/BT)
 
 - 🔭 I'm working on a data analysis project on customer segmentation for a multi-category retail store. It showcases my ability to analyze customer behavior, apply machine learning (K-Means clustering), and create visualizations using Python, Pandas, Matplotlib, and Seaborn. Check out the project [here](https://github.com/VTsagareli/customer-segmentation-retail.git).
+
+- 🔭 As part of my Bachelor Thesis I developed an AI Sound Anomaly Detection system, classifying fuel pump sounds as normal or faulty. Check out the project [here](https://github.com/VTsagareli/BT)
   
 - 💬 Practical experience in: **Angular, Ionic and Firebase**
 
