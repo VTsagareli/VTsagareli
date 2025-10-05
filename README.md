@@ -7,7 +7,7 @@
   👉 [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/vakhtang.tsagareli/viz/UsedCarMarketGermany/Dashboard1)  
   📁 [Github Link](https://github.com/VTsagareli/used-car-market-analysis)
 
-- 🔭 As part of my Bachelor Thesis I developed an AI Sound Anomaly Detection system, classifying fuel pump sounds as normal or faulty. Check out the project [here](https://github.com/VTsagareli/BT)
+- 🔭 As part of my Bachelor Thesis I developed an AI Sound Anomaly Detection system, classifying fuel pump sounds as normal or faulty. [Github Link](https://github.com/VTsagareli/BT)
   
 - 💬 Practical experience in: **Angular, Ionic and Firebase**
 - 💬 Personal experience in: **Python, SQL, Excel, Tableau, ML, CNN**
