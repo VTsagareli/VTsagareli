@@ -5,7 +5,7 @@
 
 - 🔭 I built an interactive Tableau dashboard to explore trends in Germany’s used car market using data from AutoScout24 (via Kaggle). The project involved cleaning and preparing the dataset in Python, engineering features like vehicle age and price per kW, and visualizing KPIs by brand, year, mileage, fuel type, and transmission.  
   👉 [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/vakhtang.tsagareli/viz/UsedCarMarketGermany/Dashboard1)  
-  📁 [View the Dataset on Kaggle](https://www.kaggle.com/datasets/silhavyj/used-cars-database)
+  📁 [Github Link](https://github.com/VTsagareli/used-car-market-analysis)
 
 - 🔭 As part of my Bachelor Thesis I developed an AI Sound Anomaly Detection system, classifying fuel pump sounds as normal or faulty. Check out the project [here](https://github.com/VTsagareli/BT)
   
