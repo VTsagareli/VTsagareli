@@ -3,7 +3,7 @@
 
 - 🌱 I've completed the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst), building on my Python, SQL, Excel and Tableau skills through hands-on projects in data cleaning, analysis and visualization.
 
-- 📊 I built an interactive Tableau dashboard to analyze user behavior on an ecommerce platform using clickstream data from October 2019 (via Kaggle). The project involved cleaning and loading over 42 million records into PostgreSQL, writing modular SQL scripts to extract insights and KPIs, and visualizing trends in customer engagement, conversion, and purchase behavior across time, product categories, and brands.  
+- 📊 I built an interactive Tableau dashboard to analyze user behavior on an ecommerce platform using clickstream data from October 2019 (via Kaggle). The project involved cleaning and chunking over 42 million records using Python, loading data into PostgreSQL, writing modular SQL scripts to extract insights and KPIs, and visualizing trends in customer engagement, conversion, and purchase behavior.  
   👉 [View the Live Dashboard on Tableau Public](https://public.tableau.com/views/EcommerceUserBehaviorOctober2019AnalysisDashboard/EcommerceUserBehaviorOctober2019Analysis)  
   📁 [GitHub Link](https://github.com/VTsagareli/ecommerce-user-behavior-analysis)
   
