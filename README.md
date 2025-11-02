@@ -3,7 +3,11 @@
 
 - 🌱 I've completed the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst), building on my Python, SQL, Excel and Tableau skills through hands-on projects in data cleaning, analysis and visualization.
 
-- 🔭 I built an interactive Tableau dashboard to explore trends in Germany’s used car market using data from AutoScout24 (via Kaggle). The project involved cleaning and preparing the dataset in Python, engineering features like vehicle age and price per kW, and visualizing KPIs by brand, year, mileage, fuel type, and transmission.  
+- 📊 I built an interactive Tableau dashboard to analyze user behavior on an ecommerce platform using clickstream data from October 2019 (via Kaggle). The project involved cleaning and loading over 42 million records into PostgreSQL, writing modular SQL scripts to extract insights and KPIs, and visualizing trends in customer engagement, conversion, and purchase behavior across time, product categories, and brands.  
+  👉 [View the Live Dashboard on Tableau Public](https://public.tableau.com/views/EcommerceUserBehaviorOctober2019AnalysisDashboard/EcommerceUserBehaviorOctober2019Analysis)  
+  📁 [GitHub Link](https://github.com/VTsagareli/ecommerce-user-behavior-analysis)
+  
+- 📊 I built an interactive Tableau dashboard to explore trends in Germany’s used car market using data from AutoScout24 (via Kaggle). The project involved cleaning and preparing the dataset in Python, engineering features like vehicle age and price per kW, and visualizing KPIs by brand, year, mileage, fuel type, and transmission.  
   👉 [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/vakhtang.tsagareli/viz/UsedCarMarketGermany/Dashboard1)  
   📁 [Github Link](https://github.com/VTsagareli/used-car-market-analysis)
 
