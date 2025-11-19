@@ -7,9 +7,9 @@
   👉 [View the Live Dashboard on Tableau Public](https://public.tableau.com/views/EcommerceUserBehaviorOctober2019AnalysisDashboard/EcommerceUserBehaviorOctober2019Analysis)  
   📁 [GitHub Link](https://github.com/VTsagareli/ecommerce-user-behavior-analysis)
   
-- 📊 I built an interactive Tableau dashboard to explore trends in Germany’s used car market using data from AutoScout24 (via Kaggle). The project involved cleaning and preparing the dataset in Python, engineering features like vehicle age and price per kW, and visualizing KPIs by brand, year, mileage, fuel type, and transmission.  
-  👉 [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/vakhtang.tsagareli/viz/UsedCarMarketGermany/Dashboard1)  
-  📁 [Github Link](https://github.com/VTsagareli/used-car-market-analysis)
+- 🏠 I built **TauschMatch**, an AI-powered apartment swap matching platform for Berlin using Next.js, TypeScript, Firebase, and OpenAI GPT-3.5-turbo. The project involved implementing a hybrid matching algorithm that combines structured data (60%) with semantic AI analysis (40%) for two-way compatibility scoring, batch processing listings through GPT API to handle token limits efficiently, and deploying a full-stack web application with Firebase Authentication, Firestore database, user profiles, and saved listings functionality.
+  👉 [View the Live App on Vercel](https://tauschmatch.vercel.app)  
+  📁 [Github Link](https://github.com/VTsagareli/tauschmatch)
 
 - 🔭 As part of my Bachelor Thesis I developed an AI Sound Anomaly Detection system, classifying fuel pump sounds as normal or faulty. [Github Link](https://github.com/VTsagareli/BT)
   
