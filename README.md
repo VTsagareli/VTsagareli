@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vakho</h1>
 <h3 align="center">Aspiring Data Analyst with a background in Software Development and Business Administration.</h3>
 
-- 🌱 I've completed the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst), building on my Python, SQL, Excel and Tableau skills through hands-on projects in data cleaning, analysis and visualization.
-
 - 📊 I built an interactive Tableau dashboard to analyze user behavior on an ecommerce platform using clickstream data from October 2019 (via Kaggle). The project involved cleaning and chunking over 42 million records using Python, loading data into PostgreSQL, writing modular SQL scripts to extract insights and KPIs, and visualizing trends in customer engagement, conversion, and purchase behavior.  
   👉 [View the Live Dashboard on Tableau Public](https://public.tableau.com/views/EcommerceUserBehaviorOctober2019AnalysisDashboard/EcommerceUserBehaviorOctober2019Analysis)  
   📁 [GitHub Link](https://github.com/VTsagareli/ecommerce-user-behavior-analysis)
+
+- 🌱 I've completed the [BI Data Analyst Career Path on Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst), building on my Python, SQL, Excel and Tableau skills through hands-on projects in data cleaning, analysis and visualization.
   
 - 🏠 I built **TauschMatch**, an AI-powered apartment swap matching platform for Berlin using Next.js, TypeScript, Firebase, and OpenAI GPT-3.5-turbo. The project involved implementing a hybrid matching algorithm that combines structured data (60%) with semantic AI analysis (40%) for two-way compatibility scoring, batch processing listings through GPT API to handle token limits efficiently, and deploying a full-stack web application with Firebase Authentication, Firestore database, user profiles, and saved listings functionality.
   👉 [View the Live App on Vercel](https://tauschmatch.vercel.app)  
